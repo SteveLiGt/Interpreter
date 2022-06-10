@@ -7,7 +7,7 @@ For this project itself, it helps me to be able to characterize the trade-offs i
 
 Within the project, 
 it will be able to handle function call with variables by parsing commands from file 
-1. Add, Sub, mul, div, rem, neg for interger operations
+1. add, sub, mul, div, rem, neg for interger operations
 2. push, pop, swap for stackvalue operation
 3. tostring, println , cat for print or write into file
 4. and, or, not, equal, lessthen for boolean operation
