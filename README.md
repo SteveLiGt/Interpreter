@@ -1,13 +1,13 @@
 # Interpreter-from-305-class-
 Semester long personal project
 <br>
-Developed an interpreter for a stack-based bytecode language resembling OCaml, using the OCaml language.
+*Developed an interpreter for a stack-based bytecode language resembling OCaml, using the OCaml language.
 <br>
-Analyzed and compared the benefits and trade-offs of implementing various features such as type checking, bounds checking, and memory management at compile-time, runtime, or through programmer intervention in terms of security, execution speed, and flexibility.
+*Analyzed and compared the benefits and trade-offs of implementing various features such as type checking, bounds checking, and memory management at compile-time, runtime, or through programmer intervention in terms of security, execution speed, and flexibility.
 <br>
-Implemented various features in the interpreter, such as constants (e.g., int, bool, error, string, name, unit), programs, commands, and function bindings.
+*Implemented various features in the interpreter, such as constants (e.g., int, bool, error, string, name, unit), programs, commands, and function bindings.
 <br>
-Supported a wide range of operations in the interpreter, including arithmetic, logical, and conditional statements, as well as function calls.
+*Supported a wide range of operations in the interpreter, including arithmetic, logical, and conditional statements, as well as function calls.
 
 
 Within the project, 
